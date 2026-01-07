@@ -1,0 +1,6 @@
+vim.lsp.enable("arduino_language_server")
+vim.lsp.enable("basedpyright")
+vim.lsp.enable("bashls")
+vim.lsp.enable("clangd")
+vim.lsp.enable("hyprls")
+vim.lsp.enable("lua_ls")

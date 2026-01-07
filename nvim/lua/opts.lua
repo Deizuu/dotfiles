@@ -6,7 +6,6 @@ vim.g.mapleader = " "
 -- Setting options
 o.number = true
 o.relativenumber = true
-o.mouse = ""
 o.smarttab = true
 o.autoindent = true
 o.tabstop = 4

@@ -1,4 +1,4 @@
-require('modules.lsp')
+require('enabled_lsps')
 require('opts')
 require('lazy_config')
 
